@@ -2,6 +2,9 @@
 
 Express.js backend server for the MERN Blog application.
 
+![screenshot](/Screenshot%20(119).png)
+![screenshot](/Screenshot%20(120).png)
+
 ## Setup Instructions
 
 1. **Install dependencies:**
