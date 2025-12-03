@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App h1 {
+  text-align: center;
+  margin-top: 2rem;
+  color: #007bff;
+}
+
+.App p {
+  text-align: center;
+  margin-top: 1rem;
+  color: #666;
+}
